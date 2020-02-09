@@ -17,6 +17,7 @@ ol  {
   text-align: center;
   list-style-position: inside;
   font-size: xx-large;
+  color:  red;
 }
 .bod2 {
   text-align: center;
@@ -42,10 +43,20 @@ h2  {
   float: left;
   color: green;
   font-size: xx-large;
+  background-color: orange;
 }
 .cont1  {
   font-size: xx-large;
   border: 5px solid green;
   padding: 30px solid red;
   float: right;
+  color: orange;
+  background-color: green;
+}
+body  {
+  background-image: url("/images/volcano.jpg");
+  border: 20px solid gold;
+  background: black;
+
+
 }
