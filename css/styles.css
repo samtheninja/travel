@@ -1,0 +1,51 @@
+.hed1  {
+  color: blue;
+  font-family: cursive;
+  font-size: xx-large;
+}
+h1  {
+  text-align: center;
+  font-size: xx-large;
+}
+.bod1 {
+  text-align: center;
+  color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+}
+ol  {
+  text-align: center;
+  list-style-position: inside;
+  font-size: xx-large;
+}
+.bod2 {
+  text-align: center;
+  color: red;
+  list-style: inside;
+  font-size: xx-large;
+}
+.hed2 {
+  text-align: center;
+  color: blue;
+  font-size: xx-large;
+}
+h2  {
+  text-align: center;
+  font-size: xx-large;
+}
+#id1 {
+  color: orange;
+  font-size: xx-large;
+}
+.bod3 {
+  border: 5px solid orange;
+  float: left;
+  color: green;
+  font-size: xx-large;
+}
+.cont1  {
+  font-size: xx-large;
+  border: 5px solid green;
+  padding: 30px solid red;
+  float: right;
+}
